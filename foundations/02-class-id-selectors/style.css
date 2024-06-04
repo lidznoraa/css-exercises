@@ -1,0 +1,19 @@
+.pclass1, .pclass2, .pclass3{
+    background-color: lightcoral;
+}
+
+.pclass2{
+    font-size: large;
+    font-weight: bolder;
+}
+
+#div-id1{
+    color: blue;
+    font-size: 32px;
+    font-weight: bold;
+}
+#div-id2{
+    background-color: lightgreen;
+    font-size: 20px;
+    font-weight: bolder;
+}
